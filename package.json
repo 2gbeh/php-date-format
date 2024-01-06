@@ -1,6 +1,6 @@
 {
   "name": "@etugbeh/php-date-format",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "PHP Date Format (Node Package)",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "php",
     "date",
-    "format"
+    "format",
+    "etugbeh",
+    "2gbeh",
+    "hwp labs"
   ],
   "author": "Emmanuel Tugbeh",
   "license": "ISC",
