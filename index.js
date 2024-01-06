@@ -55,7 +55,7 @@ const internetTime = (d) => {
 // c - The ISO-8601 date (e.g. 2013-05-05T16:34:42+00:00)
 // r - The RFC 2822 formatted date (e.g. Fri, 12 Apr 2013 12:01:05 +0200)
 
-function phpDateFormat(datetime, format = "M j, Y") {
+function phpDateFormat(datetime = 'now', format = "M j, Y") {
   // 1992-09-15T12:00:00.000Z
   const dt =
     datetime && datetime.toString().length >= 10
