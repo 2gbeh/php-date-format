@@ -1,0 +1,24 @@
+{
+  "name": "@etugbeh/php-date-format",
+  "version": "1.0.0",
+  "description": "PHP Date Format (Node Package)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2gbeh/php-date-format.git"
+  },
+  "keywords": [
+    "php",
+    "date",
+    "format"
+  ],
+  "author": "Emmanuel Tugbeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2gbeh/php-date-format/issues"
+  },
+  "homepage": "https://github.com/2gbeh/php-date-format#readme"
+}
