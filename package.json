@@ -19,7 +19,7 @@
     "hwp labs"
   ],
   "author": "Emmanuel Tugbeh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/2gbeh/php-date-format/issues"
   },
